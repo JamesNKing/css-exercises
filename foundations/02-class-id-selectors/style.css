@@ -1,0 +1,17 @@
+.odd {
+    background-color: hsl(0, 100%, 75%);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#div-number-two {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+.odd.specific {
+    font-size: 24px;
+}
+
+#div-number-four {
+    background-color: hsl(120, 100%, 75%);
+}
